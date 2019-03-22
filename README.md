@@ -7,11 +7,11 @@ To create your python environment simply run
 ```
 make build_env
 ```
-and then run
+from the repositories base directory and then run
 ```
 source env/bin/activate
 ```
-to activate your new virtual environment. Now we can
+to activate the virtual environment. Now we can
 boot the server with
 ```
 python website/manage.py runserver
