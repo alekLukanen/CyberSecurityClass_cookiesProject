@@ -17,3 +17,5 @@ boot the server with
 python website/manage.py runserver
 ```
 You should have a server running on `http://127.0.0.1:8000`.
+Now that the server is running you can navigate to the
+homepage at `http://127.0.0.1:8000/static/index.html`.
