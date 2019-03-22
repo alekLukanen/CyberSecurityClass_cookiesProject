@@ -1,0 +1,41 @@
+.jumbotron {
+    background-image: url(/static/images/dog4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+    padding-top: 10px;
+    padding-bottom: 150px;
+}
+
+.row{
+    padding-left:25px;
+    padding-right:25px;
+}
+
+.class1{
+    background: #444;
+    color: #eee;
+  }
+
+.dog-image {
+    background-image: url(/static/images/dog4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 10px;
+    margin: 10px;
+    min-height: 256px;
+    min-width: 300px;
+}
+
+.cookie-slide {
+    background-color: rgb(199, 181, 181);
+    padding: 10px;
+    margin: 10px;
+    min-height: 128px;
+}
+
+.cookie-slide p {
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
